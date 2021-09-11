@@ -110,7 +110,7 @@
               <name>1|2</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">Approved</rawValue>
+            <rawValue class="string">&quot;Approved&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
